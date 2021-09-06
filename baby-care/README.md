@@ -1,11 +1,10 @@
-# Sample Snack app
+# Baby Care
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Esse projeto foi criado como trabalho final no Curso de Programação Mobile que realizei no Instituto Federal do Sul de Minas, apesar de curta duração (200h) foi o primeiro passo para entrar no mundo da programção e para poder aplicar todos conceitos aprendidos no curso.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+O projeto foi desenvolvido para Mobile e para programar utilizei a biblioteca React Native que foi trabalhada durante todo o estudo, apesar de postado apenas agora, o projeto foi desenvolvido em 2020 durante o curso online e armazenado no expo para avaliação e emulação.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Sendo um projeto simples e de objetivo didático, o app "Baby Care" foi desenvolvido pensando em mães e pais de primeira viagem, onde poderiam consultar algumas informações referente a atitudes de seus bebês. Dentre as funcionalidades temos: consulta de temperatura e informação correspondente a ela, consulta sobre a coloração do cocô do bebê e sua informação correspondente, vacinas necessárias para tomar de acordo com a idade do bebê e por último uma consulta referente ao tipo de choro do bebê. Além disso foi desenvolvido uma área de cadastro, tela home e de descrição sobre o projeto.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+Veja o Projeto: https://snack.expo.dev/@felipe_souza03/baby-care
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
